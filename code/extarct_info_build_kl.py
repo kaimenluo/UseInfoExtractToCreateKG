@@ -633,9 +633,6 @@ def logistic_class(Xtrain, Xtest, ytrain, ytest):
     Precision = cnf_matrix[1,1]/(cnf_matrix[0,1]+cnf_matrix[1,1]) #精准率
     F1_Score = 2 * Precision * Recall / (Precision + Recall )
 
-    print("Recall", Recall)
-    print("Accuary", Accuary)
-    print("Precision", Precision)
 
     return model
 
