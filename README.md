@@ -20,4 +20,4 @@ submit- 存放生成出来的csv
 &emsp;实体消歧  
 &emsp;Reference    
 
-具体内容参考博客 https://zhuanlan.zhihu.com/p/97636411/edit  
+具体内容参考博客 https://zhuanlan.zhihu.com/p/97636411
